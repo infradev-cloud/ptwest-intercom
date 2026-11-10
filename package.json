@@ -1,0 +1,10 @@
+{
+  "name": "ptwest-intercom",
+  "version": "1.0.0",
+  "description": "PTWest Intercom Twilio Auto-Buzzer",
+  "main": "setup-twiml.js",
+  "type": "module",
+  "scripts": {
+    "setup": "node setup-twiml.js"
+  }
+}
